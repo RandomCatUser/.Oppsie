@@ -154,4 +154,5 @@ Run unit tests covering roundtrip verification, transparency correctness, and CL
 ```bash
 python -m unittest discover tests/
 ```
-# oppsie
+
+### This is only a joke that I built to impress my best friend so you know :3
