@@ -769,7 +769,7 @@ class MainWindow(QtWidgets.QMainWindow):
 
         # ── Header ──────────────────────────────────────────
         header = QtWidgets.QHBoxLayout()
-        brand = QtWidgets.QLabel("⬡  Fast Convert")
+        brand = QtWidgets.QLabel("⬡  Oppsie Convert")
         brand.setObjectName("brand")
         header.addWidget(brand)
         header.addStretch()
