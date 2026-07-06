@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-"""Fast Convert — Enhanced with output folder, keyboard shortcuts, hover previews & more."""
 
 import os
 import sys
